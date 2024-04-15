@@ -1,0 +1,7 @@
+node_modules
+.env
+.env.e2e
+.vscode
+data
+e2e-tests
+dist
